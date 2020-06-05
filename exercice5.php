@@ -7,8 +7,9 @@
 ?>
 
 <h1>Exercice 5</h1>
-<p><?php echo $nombre?></p>
-<p><?php echo $nombre?></p>
+
+<p> <?php echo $nombre ?> </p>
+<p> <?php echo $nombre ?> </p>
 
 <?php 
     include 'footer.php';

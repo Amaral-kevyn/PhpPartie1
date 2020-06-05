@@ -1,7 +1,7 @@
 <?php 
     $title = 'Exercice 4';
-
     include 'header.php';
+
     $monNom = 'kevyn';
     $age = 27 ;
     $poids = 66.7;
@@ -9,7 +9,8 @@
 ?>
 
 <h1>Exercice 4</h1>
-<p><?php echo $monNom."/ ".$age."/ ".$poids."/ ".$Je_suis_jaune;?></p>
+
+<p> <?php echo $monNom."/ ".$age."/ ".$poids."/ ".$Je_suis_jaune; ?> </p>
 
 <?php 
     include 'footer.php';
